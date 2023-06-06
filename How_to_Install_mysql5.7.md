@@ -2,7 +2,7 @@
 
 Copy the key here to your clipboard
 
-[https://dev.mysql.com/doc/refman/5.7/en/checking-gpg-signature.html](https://dev.mysql.com/doc/refman/5.7/en/checking-gpg-signature.html}\)
+[https://dev.mysql.com/doc/refman/5.7/en/checking-gpg-signature.html](https://dev.mysql.com/doc/refman/5.7/en/checking-gpg-signature.html)
 
 Save it in a file on your machine i.e. signature.key and then
 ```
