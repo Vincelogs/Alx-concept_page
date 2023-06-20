@@ -10,6 +10,6 @@ File organization is really important in a big project. This means for Python: p
 
 (file organization, not prototype vs code etc.)
 
-In C:<span style="color:red;">#include "abs.h"</span>
+In C: ```#include``` ```"abs.h"```
 
 In Python:
